@@ -37,16 +37,6 @@ To analyze Netflix’s dataset and gain insights about:
 
 ---
 
-## 📷 Sample Visualizations
-
-### 🎥 Movie vs TV Show Count
-![Movie vs TV](chart1_movies_vs_tv.png)
-
-
-### 🎭 Top 10 Genres
-![Top Genres](chart2_top_genres.png)
-
-
 ## 📁 Files Included
 
 - `netflix_titles.csv` – Original dataset
